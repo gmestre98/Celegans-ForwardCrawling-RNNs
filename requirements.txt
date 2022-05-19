@@ -1,0 +1,5 @@
+###### Requirements with Version Specifiers ######`
+matplotlib == 3.4.1             # Version Matching.
+pandas == 1.2.4                 # Version Matching.
+numpy == 1.19.5                 # Version Matching.
+Keras == 2.4.3                  # Version Matching.
