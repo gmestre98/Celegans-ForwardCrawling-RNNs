@@ -1,7 +1,6 @@
 
 
-%% Script to generate Figure 5
-%% from the ICLR paper
+%% Script to generate Figure 6
 clear all
 close all
 
